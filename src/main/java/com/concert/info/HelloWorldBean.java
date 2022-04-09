@@ -15,13 +15,10 @@ public class HelloWorldBean {
 	public HelloWorldBean(String message) {
 		this.message = message;
 	}
-	
-	
 
 	@Override
 	public String toString() {
-		return String.format("HelloWorldBean [message=" + message + "]", message);
+		return String.format("HelloWorldBean [message=" +message+ "]", message);
 	}
-	
 	
 }
