@@ -1,4 +1,3 @@
-# concert
 # Getting Started
 
 ### Reference Documentation
@@ -53,6 +52,6 @@ URL to get the Artist info and their event names:
 * Example (Exception) - http://localhost:8080/concert/artist/100
   Output on the broswer shows an excpetion with an error message -
   		Sat Apr 09 09:18:07 MDT 2022
-		  There was an unexpected error (type=Not Found, status=404).
-		  Artist Not Found! (CODE 404) Valid Artist IDs are 21, 22, 23, 24, 25, 26, 27, 28 and 29
+		There was an unexpected error (type=Not Found, status=404).
+		Artist Not Found! (CODE 404) Valid Artist IDs are 21, 22, 23, 24, 25, 26, 27, 28 and 29
 
